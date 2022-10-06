@@ -1,0 +1,1 @@
+"Realiza la suma de 2 valores introducidos y enviados mediante AJAX a un PHP que devuelve el resultado para mostrarlo."
