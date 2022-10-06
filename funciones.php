@@ -1,1 +1,8 @@
-"Realiza la suma de 2 valores introducidos y enviados mediante AJAX a un PHP que devuelve el resultado para mostrarlo."
+<?php 
+
+    $numero1=$_POST['valor1'];
+    $numero2=$_POST['valor2'];
+    $suma=$numero1+$numero2;
+
+    echo $suma
+?>
